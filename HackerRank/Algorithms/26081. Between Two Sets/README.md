@@ -51,7 +51,7 @@ getTotalX has the following parameter(s):
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 9/9 passed |
-| Submission ID | 473401800 |
+| Submission ID | 473401805 |
 
 ---
 
