@@ -51,7 +51,7 @@ biggerIsGreater has the following parameter(s):
 | Language | python3 |
 | Score | 35.0 |
 | Testcases | 5/5 passed |
-| Submission ID | 473403411 |
+| Submission ID | 473403415 |
 
 ---
 
