@@ -39,7 +39,7 @@ stringConstruction has the following parameter(s):
 | Language | python3 |
 | Score | 25.0 |
 | Testcases | 13/13 passed |
-| Submission ID | 473403599 |
+| Submission ID | 473403726 |
 
 ---
 
