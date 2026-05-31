@@ -45,7 +45,7 @@ getMoneySpent has the following parameter(s):
 | Language | python3 |
 | Score | 15.0 |
 | Testcases | 16/16 passed |
-| Submission ID | 473401889 |
+| Submission ID | 473401922 |
 
 ---
 
