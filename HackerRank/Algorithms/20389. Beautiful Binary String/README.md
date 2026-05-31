@@ -44,7 +44,7 @@ beautifulBinaryString has the following parameter(s):
 | Language | python3 |
 | Score | 20.0 |
 | Testcases | 12/12 passed |
-| Submission ID | 473403561 |
+| Submission ID | 473403568 |
 
 ---
 
