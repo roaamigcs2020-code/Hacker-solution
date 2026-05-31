@@ -47,7 +47,7 @@ camelcase has the following parameter(s):
 | Language | python3 |
 | Score | 15.0 |
 | Testcases | 21/21 passed |
-| Submission ID | 473401650 |
+| Submission ID | 473403478 |
 
 ---
 
