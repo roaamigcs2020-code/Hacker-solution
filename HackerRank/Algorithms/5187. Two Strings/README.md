@@ -48,7 +48,7 @@ twoStrings has the following parameter(s):
 | Language | python3 |
 | Score | 25.0 |
 | Testcases | 8/8 passed |
-| Submission ID | 473403593 |
+| Submission ID | 473403604 |
 
 ---
 
